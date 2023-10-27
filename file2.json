@@ -1,0 +1,22 @@
+[
+    {
+        "adm_no": 192098,
+        "name": "John Doe Hurt",
+        "dob": 2003
+    },
+    {
+        "adm_no": 156789,
+        "name": "Susan Muhia Wanja",
+        "dob": 2004
+    },
+    {
+        "adm_no": 192099,
+        "name": "Clara Ravis",
+        "dob": 2007
+    },
+    {
+        "adm_no": 156745,
+        "name": "Tom Denton James",
+        "dob": 2006
+    }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "Student Adm No.": 192098,
+    "Student Name": "John Doe Hurt",
+    "Date of Birth": 2003
+  },
+  {
+    "id": 2,
+    "Student Adm No.": 156789,
+    "Student Name": "Susan Muhia Wanja",
+    "Date of Birth": 2004
+  },
+  {
+    "id": 3,
+    "Student Adm No.": 192099,
+    "Student Name": "Clara Ravis",
+    "Date of Birth": 2007
+  },
+  {
+    "id": 4,
+    "Student Adm No.": 156745,
+    "Student Name": "Tom Denton James",
+    "Date of Birth": 2006
+  },
+  {
+    "id": 5,
+    "adm_no": 192098,
+    "name": "John Doe Hurt",
+    "dob": 2003
+  },
+  {
+    "id": 6,
+    "adm_no": 156789,
+    "name": "Susan Muhia Wanja",
+    "dob": 2004
+  },
+  {
+    "id": 7,
+    "adm_no": 192099,
+    "name": "Clara Ravis",
+    "dob": 2007
+  },
+  {
+    "id": 8,
+    "adm_no": 156745,
+    "name": "Tom Denton James",
+    "dob": 2006
+  }
+]
